@@ -4,7 +4,7 @@
 
 This project contains a solution to the second project of udacity Deep-Reinforcement-Learning nano-degree, which trains the double-jointed arm to move along given target locations
 
-![Trained Agent][image1]
+![Trained Agent](images/playing.gif)
 
 ### Environment details
 
